@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Guga a frontend developer focusing in React. 
+- 🌱 I’m currently learning Typescript
 <!--
 **gugatxr/gugatxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
